@@ -10,8 +10,6 @@ Pagadala Sri Satya Sai Praneeth
 # Website look
 <img src="website.PNG">
 
-# Website demo
-https://youtu.be/j5hOvx7FyQM
 
 # Resources referred
 https://www.w3schools.com/sql/default.asp
